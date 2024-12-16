@@ -5,3 +5,8 @@ primero stage changes
 
 
 podemos instalar la extencion gitfraph
+
+git config --global user.email "email"
+git config --global user.name "Tu Nombre"
+
+git config --global
