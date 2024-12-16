@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 hola buenas, es una prueba
-=======
-buenas noches , soy cristian el joven
->>>>>>> d79d5c6f1393184b69f8b087df26e0762d226b5c
